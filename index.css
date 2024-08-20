@@ -1,0 +1,53 @@
+body{
+   background: linear-gradient(80deg, #12111d, #463477);
+   background-size: cover;
+}
+small{
+   color: white;
+}
+nav img{
+    width: 80px;
+ }
+ #principal img{
+   max-height: 95vh;
+   object-fit: cover;
+}
+.card-img{
+   width: 100%;
+   height: auto;
+}
+p{
+   color: white;
+}
+p:hover{
+   cursor: pointer;
+}
+h1{
+   font-family: 'Times New Roman', Times, serif;
+}
+.card-title{
+   color: white;
+   cursor: pointer;
+}
+#principal p:hover{
+   cursor: pointer;
+   color: aqua;
+}
+#principal h5:hover{
+   cursor: pointer;
+   color: aqua;
+}
+#footer{
+   background-color: #617c9b;
+}
+#footer a{
+   text-decoration: none;
+   color: white;
+}
+#textosecundario{
+   color: white;
+   font-size: 13px;
+}
+#titulo{
+   color: white;
+}
